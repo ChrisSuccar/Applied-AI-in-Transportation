@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ef286204-2494-4533-bc34-b64bb6eeb543" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Applied-AI-in-Transportation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_2_regression_model/Exercise2_Regression_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_2_regression_model/Exercise2_Regression_model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_3_Mode_choice_model/Exercise_3_Mode_choice_model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_3_Mode_choice_model/Exercise_3_Mode_choice_model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_4_Text_classification/Exercise_4_Text_classification.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_4_Text_classification/Exercise_4_Text_classification.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_5_Clustering/exercise_5_clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_5_Clustering/exercise_5_clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise_6_Dimensionality_Reduction/Exercise 6-Dimensionality Reduction.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise_6_Dimensionality_Reduction/Exercise 6-Dimensionality Reduction.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="DEPENDENCY_CHECKER_PROBLEMS_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2lHi9x61NYnkYkrIB5VkV2uBnfN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.exercise_5_clustering.ipynb.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/chris/Documents/GitHub/Applied-AI-in-Transportation/Exercise_5_Clustering",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Exercise_5_Clustering" />
+      <recent name="$USER_HOME$/Downloads" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ef286204-2494-4533-bc34-b64bb6eeb543" name="Changes" comment="" />
+      <created>1724843254705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724843254705</updated>
+      <workItem from="1724843256395" duration="4659000" />
+      <workItem from="1724848455420" duration="329000" />
+      <workItem from="1724848802272" duration="7280000" />
+      <workItem from="1725181141050" duration="807000" />
+      <workItem from="1725182382985" duration="24000" />
+      <workItem from="1725182422081" duration="17000" />
+      <workItem from="1725182515961" duration="4999000" />
+      <workItem from="1725265986778" duration="1779000" />
+      <workItem from="1725276416452" duration="53000" />
+      <workItem from="1725276558850" duration="20313000" />
+      <workItem from="1726053148987" duration="3654000" />
+      <workItem from="1726057389318" duration="1349000" />
+      <workItem from="1726058938065" duration="58000" />
+      <workItem from="1726059023695" duration="22360000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/chris/Documents/GitHub/Test_1/Exercise 2/Exercise2_Regression_model.ipynb</url>
+          <line>118</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Applied_AI_in_Transportation$exercise_5_clustering_ipynb.coverage" NAME="exercise_5_clustering.ipynb Coverage Results" MODIFIED="1726485740521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads" />
+  </component>
+</project>
